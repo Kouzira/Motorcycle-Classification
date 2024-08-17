@@ -2,6 +2,9 @@
 The **Motorcycle Classification** project aims to detect and classify motorcycles in images into five categories: **Honda**, **Suzuki**, **Yamaha**, **VinFast**, and **Others**. The project uses the **YOLOv8n** model by Ultralytics for motorcycle detection and classification.
 This is my Final Project in Mechina Learning(CS114) at university 
 
+## Data Overview
+Data in this project consists of 33,646 photos of motorbikes divided into 5 labels(**Honda**, **Suzuki**, **Yamaha**, **VinFast**, and **Others**) contributed by students in the class.
+
 ## Process Overview
 The project consists of the following steps:
 
